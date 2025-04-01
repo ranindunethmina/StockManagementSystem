@@ -33,5 +33,5 @@ To install & run the project, follow these steps:
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-© 2023 Ranindu Nethmina
+© 2024 Ranindu Nethmina
 
